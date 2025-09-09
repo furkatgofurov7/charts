@@ -4,6 +4,6 @@
 # subdirectory: charts/rancher-turtles
 # workingDir: charts
 
-url: https://github.com/furkatgofurov7/rancher-turtles/releases/download/v0.20.0/rancher-turtles-0.20.0.tgz
-version: 107.0.1
+url: https://github.com/furkatgofurov7/rancher-turtles/releases/download/v0.20.1-rc.1/rancher-turtles-0.20.1-rc.1.tgz
+version: 107.0.2
 doNotRelease: false
